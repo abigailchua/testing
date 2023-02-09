@@ -18,3 +18,4 @@ summary(lm.hello)
 
 #L2 is Price = -0.14142 + 125.95380(Size) -0.02683(Age) -1.20537(Size:Age)
 
+#hi
